@@ -1,55 +1,49 @@
 ﻿[//]: # (Author: Ashraf Morningstar | GitHub: https://github.com/AshrafMorningstar)
+
+<div align="center">
+
 # Verifiable Content Platform
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
-
-ðŸš€ IPFS-based content authenticity and verification system.
-
-## ðŸ” Why this project exists
+**Truth in the age of AI.**
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
-A production-grade implementation demonstrating modern web engineering practices, focusing on performance, accessibility, and scalability.
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## âœ¨ Features
+</div>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
-- ðŸš€ Production-ready architecture
-- ðŸŽ¨ Premium UI/UX design system
-- â™¿ WCAG AA Accessible
-- ðŸ“± Fully Responsive
-- âš¡ Optimized Performance
+## ðŸ“– Overview
+A content publishing platform that cryptographically signs articles and stores them on IPFS. It ensures that content cannot be altered or censored.
 
-## ðŸ§  Architecture
+## âœ¨ Key Features
+- **IPFS Storage:** Decentralized persistence.
+- **Crypto-Signing:** ECDSA verification.
+- **Blockchain Anchoring:** Timestamp proof.
+- **Censorship Resistant:** Unstoppable content.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
-Built with clean separation of concerns and modern design patterns.
+## ðŸ› ï¸ Technical Stack
+**React, IPFS (js-ipfs), Ethers.js**
 
-## ðŸš€ Live Demo
+## ðŸš€ Getting Started
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
-[Deployment Link Placeholder]
+### Prerequisites
+- Node.js 18+
+- npm or yarn
 
-## ðŸ“¦ Installation
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
-```bash
+### Installation
+`ash
+git clone https://github.com/ashraf-morningstar-labs/verifiable-content-platform.git
+cd verifiable-content-platform
 npm install
 npm run dev
-```
+`
 
-## ðŸ›  Tech Stack
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
-IPFS â€¢ Cryptography
-
-## ðŸ“ˆ SEO Keywords
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
-content verification, ipfs publishing, blockchain
+## ðŸ¤ Contribution
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## ðŸ“„ License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
-MIT
-
-
+---
+<div align="center">
+  <b>Built with â¤ï¸ by <a href="https://github.com/AshrafMorningstar">Ashraf Morningstar</a></b>
+</div>
