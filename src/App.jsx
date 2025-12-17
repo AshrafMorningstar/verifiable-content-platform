@@ -1,3 +1,7 @@
+﻿/**
+ * Author: Ashraf Morningstar
+ * GitHub: https://github.com/AshrafMorningstar
+ */
 import React from 'react';
 
 function App() {

@@ -1,34 +1,55 @@
+﻿[//]: # (Author: Ashraf Morningstar | GitHub: https://github.com/AshrafMorningstar)
 # Verifiable Content Platform
 
-🚀 IPFS-based content authenticity and verification system.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
 
-## 🔍 Why this project exists
+ðŸš€ IPFS-based content authenticity and verification system.
+
+## ðŸ” Why this project exists
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
 A production-grade implementation demonstrating modern web engineering practices, focusing on performance, accessibility, and scalability.
 
-## ✨ Features
-- 🚀 Production-ready architecture
-- 🎨 Premium UI/UX design system
-- ♿ WCAG AA Accessible
-- 📱 Fully Responsive
-- ⚡ Optimized Performance
+## âœ¨ Features
 
-## 🧠 Architecture
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
+- ðŸš€ Production-ready architecture
+- ðŸŽ¨ Premium UI/UX design system
+- â™¿ WCAG AA Accessible
+- ðŸ“± Fully Responsive
+- âš¡ Optimized Performance
+
+## ðŸ§  Architecture
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
 Built with clean separation of concerns and modern design patterns.
 
-## 🚀 Live Demo
+## ðŸš€ Live Demo
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
 [Deployment Link Placeholder]
 
-## 📦 Installation
+## ðŸ“¦ Installation
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
 ```bash
 npm install
 npm run dev
 ```
 
-## 🛠 Tech Stack
-IPFS • Cryptography
+## ðŸ›  Tech Stack
 
-## 📈 SEO Keywords
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
+IPFS â€¢ Cryptography
+
+## ðŸ“ˆ SEO Keywords
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
 content verification, ipfs publishing, blockchain
 
-## 📄 License
+## ðŸ“„ License
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/verifiable-content-platform)
 MIT
+
+
